@@ -1,0 +1,16 @@
+.detail{
+    color: cyan;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.logo{
+    color: cyan;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3rem;
+    position: relative;
+    margin-top: 1rem;
+    text-align: center;
+  }
